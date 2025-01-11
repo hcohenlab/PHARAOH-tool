@@ -1,0 +1,11 @@
+metadata_version: 1
+name: The mammalian longevity associated acetylome
+description: This project offers a comprehensive pipeline for the analysis of orthologous
+  proteins, creation of a replacement matrix, and conducting statistical tests to
+  identify correlations between amino acid changes and lifespan. The pipeline is specifically
+  tailored for Mus musculus or Homo sapiens PTM (Post-Translational Modification)
+  data.
+authors:
+- name: Sarit
+  affiliations:
+  - name: BIU

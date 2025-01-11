@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -ex
+
+mkdir -p ../results/DBs
+mkdir -p ../results/running_files
+
+# This is the master script for the capsule. When you click "Reproducible Run", the code in this file will execute.
+python -u pharaoh.py "$@"
