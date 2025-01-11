@@ -1,0 +1,108 @@
+species,lifespan
+Mus spicilegus,3.5
+Rattus norvegicus,3.8
+Mesocricetus auratus,3.9
+Mus musculus,4
+Monodelphis domestica,5.1
+Cricetulus griseus,5.3
+Microtus ochrogaster,5.3
+Molossus molossus,"5.6	"
+Jaculus jaculus,7.3
+Ictidomys tridecemlineatus,7.9
+Pipistrellus kuhlii,8
+Peromyscus maniculatus bairdii,8.3
+Phyllostomus discolor,9
+Dipodomys ordii,9.9
+Neotoma lepida,10.5
+Mustela putorius furo,11.1
+Neovison vison,11.4
+Erinaceus europaeus,11.7
+Cavia porcellus,12
+Tupaia chinensis,12.4
+Oryctolagus cuniculus,13
+Sarcophilus harrisii,13
+Marmota monax,14
+Octodon degus,14
+Sciurus vulgaris,14.8
+Fukomys damarensis,15.5
+Carlito syrichta,16
+Nyctereutes procyonoides,16.6
+Chinchilla lanigera,17.2
+Marmota marmota marmota,17.4
+Prolemur simus,17.6
+Microcebus murinus,18.2
+Bos taurus,20
+Otolemur garnettii,20
+Pteropus alecto,20.3
+Acinonyx jubatus,20.5
+Canis lupus familiaris,20.6
+Suricata suricatta,20.6
+Capra hircus,20.8
+Pteropus vampyrus,20.9
+Vulpes vulpes,21.3
+Phascolarctos cinereus,22.1
+Ornithorhynchus anatinus,22.6
+Ovis aries,22.8
+Callithrix jacchus,22.8
+Rousettus aegyptiacus,22.9
+Odocoileus virginianus texanus,23
+Muntiacus reevesi,23.2
+Castor canadensis,23.4
+Lipotes vexillifer,24
+Vicugna pacos,25.8
+Bos mutus,26.3
+Panthera tigris altaica,26.3
+Lynx canadensis,26.8
+Sus scrofa,27
+Enhydra lutris kenyoni,27
+Puma concolor,27
+Panthera leo,28
+Camelus dromedarius,28.4
+Rhinopithecus roxellana,29.5
+Orycteropus afer afer,29.8
+Felis catus,30
+Aotus nancymaae,30
+Vombatus ursinus,30
+Saimiri boliviensis boliviensis,30.3
+Rhinolophus ferrumequinum,30.5
+Heterocephalus glaber,31
+Propithecus coquereli,31
+Cervus elaphus hippelaphus,31.5
+Chlorocebus sabaeus,32
+Bison bison bison,33.5
+Myotis lucifugus,34
+Ursus americanus,34
+Colobus angolensis palliatus,35.3
+Theropithecus gelada,36
+Ailuropoda melanoleuca,36.8
+Myotis myotis,37.1
+Papio anubis,37.5
+Macaca nemestrina,37.6
+Macaca fascicularis,39
+Mandrillus leucophaeus,39
+Macaca mulatta,40
+Delphinapterus leucas,40
+Myotis brandtii,41
+Crocuta crocuta,41.1
+Ursus maritimus,43.8
+Nomascus leucogenys,44.1
+Cercocebus atys,46
+Sapajus apella,46
+Equus asinus asinus,47
+Balaenoptera acutorostrata scammoni,50
+Monodon monoceros,50
+Tursiops truncatus,51.6
+Cebus imitator,54
+Pan paniscus,55
+Equus caballus,57
+Diceros bicornis minor,57
+Pongo abelii,59
+Gorilla gorilla gorilla,60.1
+Loxodonta africana,65
+Pan troglodytes,68
+Trichechus manatus latirostris,69
+Eschrichtius robustus,77
+Physeter macrocephalus,77
+Balaenoptera musculus,"110	"
+Balaenoptera physalus,114
+Homo sapiens,122.5
